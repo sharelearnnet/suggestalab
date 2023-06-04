@@ -1,9 +1,16 @@
-This repository is designed to facilitate the process of suggesting a new lab topic for sharelearn.net. If you can't find a lab topic that matches your interests on the website, you can follow the steps below to contribute your own lab suggestion.
+This repository is designed to facilitate the process of suggesting a new lab topic for www.sharelearn.net
+
+Check current labs at www.sharelearn.net 
+
+If you did not find a lab topic that matches your interests, you can follow the steps below to contribute your own lab suggestion.
 
 Steps to Suggest a Lab
-Visit sharelearn.net and browse through the current lab topics to ensure that your suggested topic doesn't already exist.
 
-Fork this repository by clicking on the "Fork" button in the top-right corner of this page. This will create a copy of the repository under your GitHub account.
+Visit www.sharelearn.net and browse through the current lab topics to ensure that your suggested topic doesn't already exist.
+
+Fork this repository by clicking on the "Fork" button in the top-right corner of this page. 
+
+This will create a copy of the repository under your GitHub account.
 
 Clone the forked repository to your local machine using the following command:
 
