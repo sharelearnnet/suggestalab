@@ -7,14 +7,16 @@ Fork this repository by clicking on the "Fork" button in the top-right corner of
 
 Clone the forked repository to your local machine using the following command:
 
-bash
-Copy code
+```
 git clone https://github.com/your-username/suggestalab.git
+```
+
 Navigate to the cloned repository:
 
-bash
-Copy code
+```
 cd suggestalab
+```
+
 Open the labs.txt file in a text editor of your choice. This file contains a list of lab topics suggested by the community.
 
 Add your lab topic suggestion to the end of the labs.txt file. Make sure to provide a clear and concise title for your suggested lab topic.
@@ -23,20 +25,24 @@ Save the changes to the labs.txt file.
 
 Commit the changes to your local repository with an appropriate commit message:
 
-sql
-Copy code
+```
 git commit -am "Add lab suggestion: [your lab topic]"
+```
+
 Push the changes to your forked repository:
 
-css
-Copy code
+```
 git push origin main
+```
+
 Visit the original repository on GitHub (https://github.com/sharelearn/suggestalab) and click on the "Compare & pull request" button.
 
 Review your changes and click on the "Create pull request" button to open a new pull request.
 
 Provide a descriptive title and a clear description for your pull request. Include any additional information or context that may be relevant.
 
-Submit the pull request and wait for the maintainers to review your suggestion. They will provide feedback and, if approved, merge your changes into the main repository.
+Submit the pull request. We will provide feedback and, if approved, merge your changes into the main repository.
 
-Thank you for your contribution to the sharelearn.net community! We appreciate your effort in suggesting new lab topics to enhance the learning experience for everyone.
+Thank you for your contribution to the sharelearn.net community! 
+
+We appreciate your effort in suggesting new lab topics to enhance the learning experience for everyone.
